@@ -21,7 +21,7 @@ var stegosaurus = {
   period: 'Late Jurassic',
 }
 // velociraptor, carnivorous, 15kg, 1.8m, Late Cretaceous
-var stegosaurus = {
+var velociraptor = {
   diet: 'herbivorous',
   weight: '2000kg',
   length: '9m',
